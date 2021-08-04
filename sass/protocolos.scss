@@ -1,0 +1,13 @@
+@import "_header.scss";
+@import "_footer.scss";
+@import "_clientes.scss";
+
+$size: 10px;
+
+h1{
+    font-size: $size +5;
+}
+h2{
+    font-size: $size /2;
+}
+
